@@ -1,0 +1,23 @@
+body{
+	background-image: url(../img/edu.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}
+.nav-link{
+	color: black;	
+}
+.navbar-light{
+	border-style: double;
+	border-color: #bd2d81;
+	border-radius: 15px;
+	max-width: 400px;
+}
+img{
+	margin-top: 100px;
+}
+.position{
+	margin-top: 130px;
+	border-left: solid;
+	border-color: #bd2d81;
+}

@@ -1,0 +1,52 @@
+.nav-link{
+	color: black;
+	text-decoration: underline;
+}
+body{
+	background-image: url(../img/contact.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+.btn-group{
+	float: right;
+}
+h2{
+	margin-top: 70px;
+	color: white;
+	border-style: double;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	max-width: 70px;
+	font-family: cursive;
+}
+.fa-map-marker-alt{
+	color: white;
+}
+a{
+ border-style: solid;
+ border-radius: 20px;
+ padding: 15px;
+ color: white;
+ margin-top: 700px;
+}
+p{
+	color: white;
+	padding-bottom: 30PX;
+}
+form{
+	color: white;
+}
+.btn{
+	margin-left: 290px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+iframe{
+	margin-top: 50px;
+}
+form{
+	margin-top: 100px;
+}
